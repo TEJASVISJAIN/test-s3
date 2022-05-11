@@ -1,5 +1,5 @@
 import os
 
 S3_BUCKET = 'flask-test-bucket-project'
-S3_KEY = 'AKIARAH7DQJFWFQK73MQ'
-S3_SECRET = 'weJgkuuGMBedZEA58ALWylLLX/qLiA19e0Virk8e'
+S3_KEY = <your-key>
+S3_SECRET = <your-secret-key>
